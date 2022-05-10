@@ -28,7 +28,7 @@ vertical-align: middle;}
 span {font-size: 16px;}
 
 
-main {height: 700px;
+main {height: 1000px;
       width:75%;
       background-color: white;
       margin: auto;}
@@ -88,8 +88,24 @@ height:4px;
 width: 4;
 margin: 2px;}
 
-/*
+li {
+    margin: 0;
+    padding: 1px 0px 0px 32px;
+    list-style: none;
+    background-image: url(tic.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 25px;
+}
 
-ul {list-style-image: url(cross.jpg);
 
-}*/
+
+.licross {
+    margin: 0;
+    padding: 8px 0px 3px 35px;
+    list-style: none;
+    background-image: url(cross.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 31px;
+}
