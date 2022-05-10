@@ -1,7 +1,26 @@
 header {height: 70px;
 background-color: aqua;
-padding:20px}
+padding:10px;
+margin-bottom:20px;}
 
 #logo {height: 100%;
 width: auto;
 vertical-align: middle;}
+
+h1 {font-size: 50px;
+display: inline;
+vertical-align: middle;}
+
+/*Utilities*/
+
+
+.structure {width:75%;
+    height: 50px ;
+    margin: auto;
+    background-color: aqua;
+    margin-bottom: 3px;}
+
+main {height: 700px;
+      width:75%;
+      background-color: aqua;
+      margin: auto;}
