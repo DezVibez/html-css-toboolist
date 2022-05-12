@@ -75,12 +75,18 @@ height: 2000px;}
 
 /*classi colore icona destra*/
 
-
-.viola{background-color: blueviolet;}
-.aqua{background-color: aqua;}
-.arancio{background-color: orange;}
-.rosa{background-color: pink;}
-.verde{background-color: green;}
+.azzurro{background-color: rgb(4,98,149);
+}   
+.viola{background-color: blueviolet;
+}
+.aqua{background-color: aqua;
+}
+.arancio{background-color: orange;
+}
+.rosa{background-color: pink;
+}
+.verde{background-color: green;
+}
 
 
 
@@ -117,9 +123,9 @@ li span{font-size: 18px;}
 .badge {
     display: inline-block;
     padding:5px;
-    border-radius: 5px;
-    border: solid 1px rgb(4,98,149);
-    font-size: 20px;
+    border-radius: 20px;
+    border: solid 1px ;
+    font-size: 15px;
     color: white;
     }
 
